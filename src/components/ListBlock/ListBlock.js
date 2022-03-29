@@ -15,7 +15,7 @@ const ListBlock = (props) => {
     return (
        <ul className={list}>
 
-           {tasks.filter(el => el.weekday == props.weekDay).filter((task) => {
+           {tasks.filter(el => el.weekday === props.weekDay).filter((task) => {
                if (status === 'Pending') {
                    return task.pending
                } else if (status === 'Success') {
