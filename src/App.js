@@ -40,7 +40,7 @@ function App() {
                     <button className='back' onClick={()=>setTaskVisible(false)}>Назад</button>
                     <FormBlock weekDay={weekDay}/>
                     {
-                        tasks.length && status === 'Total'  ?
+                         status === 'Total'  ?
                             tasks.filter(el=>el.pending).length === 0 && status === 'Pending'?
                             <p>Список ожидающих задач пуст</p>
                             : tasks.filter(el=>el.success).length === 0 && status === 'Success' ?
@@ -52,7 +52,7 @@ function App() {
                                         Clear ALL
                                         <MdDelete/>
                                     </p>
-                                </>
+                                </> : <div></div>
                     }
                 </div>
             : ''}
