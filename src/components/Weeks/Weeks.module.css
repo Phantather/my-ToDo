@@ -1,0 +1,17 @@
+.weeks{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.list {
+    width: 60%;
+    background-color: white;
+    padding: 25px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+    border-radius: 10px;
+}
