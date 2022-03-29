@@ -40,8 +40,8 @@ function App() {
                     <button className='back' onClick={()=>setTaskVisible(false)}>Назад</button>
                     <FormBlock weekDay={weekDay}/>
                     {
-                        tasks.length === 0 && status === 'Total'  ? <p>Список задач пуст</p>
-                            : tasks.filter(el=>el.pending).length === 0 && status === 'Pending'?
+                        tasks.length && status === 'Total'  ?
+                            tasks.filter(el=>el.pending).length === 0 && status === 'Pending'?
                             <p>Список ожидающих задач пуст</p>
                             : tasks.filter(el=>el.success).length === 0 && status === 'Success' ?
                                 <p>Список выполненных задач пуст</p>
