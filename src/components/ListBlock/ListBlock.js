@@ -25,7 +25,7 @@ const ListBlock = (props) => {
                }
            }).map((task) => (
 
-               <ListItem priority={priority} task={task} setModalShow={setModalShow} action={action} date={date}
+               <ListItem key={task.id} priority={priority} task={task} setModalShow={setModalShow} action={action} date={date}
                setCheck={setCheck} setCheckTags={setCheckTags} setModalShowObj={setModalShowObj} dateIcon={dateIcon}
                successHandler={successHandler} actionDelete={actionDelete} item={item} itemRight={itemRight} priorityCircle={priorityCircle}
                delTask={delTask} itemLeft={itemLeft}

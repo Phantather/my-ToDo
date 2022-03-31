@@ -38,11 +38,11 @@
     <property name="nodejs_package_manager_path" value="yarn" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\user\Desktop\TODOL1800-master\src\components\Weeks" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\Desktop\TODOL1800-master\src\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\TODOL1800-master\src\components\Weeks" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -64,7 +64,7 @@
       <workItem from="1647510113833" duration="26000" />
       <workItem from="1647680696238" duration="4238000" />
       <workItem from="1648123801210" duration="45000" />
-      <workItem from="1648534852020" duration="2191000" />
+      <workItem from="1648534852020" duration="2420000" />
     </task>
     <servers />
   </component>
@@ -76,11 +76,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="317" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1646464217856" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1647685495544">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1648537295724">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1647685495544" />
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1647510140199" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1648537295724" />
     <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1646464033446">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
