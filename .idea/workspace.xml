@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1aa05722-ba87-4ab2-8f31-567b889a274a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ListBlock/ListBlock.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ListBlock/ListBlock.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +63,9 @@
       <workItem from="1647680696238" duration="4238000" />
       <workItem from="1648123801210" duration="45000" />
       <workItem from="1648534852020" duration="2420000" />
+      <workItem from="1648711941301" duration="1073000" />
+      <workItem from="1648713637985" duration="15000" />
+      <workItem from="1649769341896" duration="996000" />
     </task>
     <servers />
   </component>
@@ -76,11 +77,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="317" y="142" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1646464217856" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1648537295724">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1648713650316">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1647685495544" />
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1648537295724" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1648713650316" />
     <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1646464033446">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
